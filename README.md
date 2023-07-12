@@ -34,6 +34,7 @@ Societal sleep patterns: Analyze large-scale datasets to identify broader trends
 The data will be derived from the downloadable URL:
 https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 Data will be collected/ generated using a combination of R language, Matplot, and Python. 
+The dataset is synthetic and created for demonstration purposes. 
 
 ## DESIRED OUTCOME AND IMPACT ##
 The desired outcome of this project is to uncover meaningful insights regarding the relationship between sleep and lifestyle factors through data analysis. By examining trends and correlations, we aim to identify key lifestyle variables that significantly impact sleep quality and duration. Additionally, we strive to develop predictive models and personalized recommendations that empower individuals to make informed lifestyle choices for optimal sleep health.
